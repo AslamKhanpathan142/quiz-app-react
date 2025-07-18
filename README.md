@@ -28,8 +28,8 @@ This is a fully functional **Quiz App** built with **React JS**. Users can answe
 
 > Add screenshots here  
 > Example:
-![Quiz Home](./screenshots/home.png)
-![Question Page](./screenshots/question.png)
+![Quiz Home](./img/quiz.png)
+![Result Page](./img/result.png)
 
 ---
 
