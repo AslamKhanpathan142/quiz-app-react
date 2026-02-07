@@ -74,7 +74,7 @@ const Quiz = () => {
       </ul>
       <button onClick={update}>Next</button>
       <div className='index'>
-            {index+1} of {data.length} you have any questions
+            {index+1} of {data.length} You Have Any Questions
       </div>
       </>}
         {result ? <>  <h2>You Scored {score} out of {data.length}</h2>
